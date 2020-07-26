@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 I’m currently working on furthering my Full-Stack Development skills;
-- 🌱 I’m currently learning React and React Native; 
+- 🌱 I’m currently polishing my React skills; 
 - 🤔 I’m looking for help with getting more expierience;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I have a bachelor's degree in computer science;

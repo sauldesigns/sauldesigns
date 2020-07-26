@@ -65,9 +65,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 I created these images, feel free to use them.
 -->
 <p align="center">
-  
- 
-  <a href="buymeacoff.ee/sauldesigns" target="_blank">
+  <a href="https://buymeacoff.ee/sauldesigns" target="_blank">
       <img width="18%" alt="Buy me a coffee" src="https://cdn.buymeacoffee.com/buttons/default-blue.png"/>
   </a>
 </p>

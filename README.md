@@ -21,7 +21,6 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently polishing my React skills; 
 - 🤔 I’m looking for help with getting more expierience;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I have a bachelor's degree in computer science;
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saul-plateros/)
 
 **Languages and Tools:** 
@@ -73,13 +72,4 @@ I created these images, feel free to use them.
 ---
 
 <!-- Its main projects -->
-## Most Recent Repos
-<p align="center">
-  <a href="https://github.com/sauldesigns/netflix-clone">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sauldesigns&repo=netflix-clone" />
-  </a>
-  <a href="https://github.com/sauldesigns/covid19-tracker">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sauldesigns&repo=covid19-tracker" />
-  </a>
-</p>
 

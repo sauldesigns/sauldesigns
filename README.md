@@ -17,9 +17,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working on furthering my Full-Stack Development skills;
+- 👨🏽‍💻 I’m working on furthering my Full-Stack Development skills;
 - 🌱 I’m currently polishing my React skills; 
-- 🤔 I’m looking for help with getting more expierience;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/saul-plateros/)
 

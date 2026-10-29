@@ -19,7 +19,25 @@
 
 ### ⚡ About Me
 
-<img align="right" width="380" alt="Coding Illustration" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<picture>
+  <!-- Renders in GitHub Dark Mode (Transparent vector with bright cyan/white accents) -->
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" 
+  />
+  <!-- Renders in GitHub Light Mode (Your original illustration) -->
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" 
+  />
+  <!-- Fallback with align="right" -->
+  <img 
+    align="right" 
+    width="380" 
+    alt="Coding Illustration" 
+    src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" 
+  />
+</picture>
 
 - 🛠️ **What I build:** Full-stack web applications, native **iOS/CarPlay** experiences in SwiftUI, cross-platform mobile apps, and high-performance REST/gRPC APIs.
 - 🔭 **Current focus:** Writing backend services in **Go**, exploring systems programming with **Rust**, and pulling live vehicle CAN bus telemetry over BLE.

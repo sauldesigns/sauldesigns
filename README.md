@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey, I'm Saul Plateros 👋🏽</h1>
+  <h1>Hey, I'm Saul 👋🏽</h1>
   <p><strong>Full-Stack Software Engineer • Mobile Developer • Systems & Homelab Enthusiast</strong></p>
 
   <p>
